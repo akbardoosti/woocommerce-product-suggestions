@@ -5,7 +5,7 @@ This plugin created for woocommerce cart page to suggest similar product in the 
 ## Plugin author
 **Akbar Doosti**
 ## Author URI: 
-[Author website](https://wpx93.ir).
+[Author website](https://wpx93.ir)
 
 ![This is an image](/assets/images/wordpress.jpeg)
 
